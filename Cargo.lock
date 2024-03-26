@@ -3677,7 +3677,7 @@ dependencies = [
 [[package]]
 name = "vanilla_iced"
 version = "0.1.0"
-source = "git+https://github.com/skygrango/vanilla_iced.git#34a3a046137ff69e955eb3a211a20a6646e18fbb"
+source = "git+https://github.com/skygrango/vanilla_iced.git#89257b5e5bd644a47d650e23ffffd45ae7aa4bfd"
 dependencies = [
  "bytemuck",
  "glam 0.24.2",
@@ -3706,7 +3706,6 @@ dependencies = [
  "gstreamer",
  "gstreamer-app",
  "iced",
- "iced_wgpu",
  "num-rational",
  "thiserror",
  "url",

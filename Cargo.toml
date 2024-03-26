@@ -8,7 +8,6 @@ repository = "git@acs-ultron:aiot/video_player.git"
 
 [dependencies]
 iced = { git = "https://github.com/iced-rs/iced", features = ["advanced", "image", "lazy", "wgpu", "tokio"] }
-iced_wgpu = { git = "https://github.com/iced-rs/iced" }
 
 gstreamer = "0.22" 
 gstreamer-app = "0.22" # appsink 
