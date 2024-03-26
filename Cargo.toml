@@ -15,5 +15,5 @@ gstreamer-app = "0.22" # appsink
 glib = "0.19" # gobject traits and error type
 thiserror = "1" 
 url = "2" # media uri
-vanilla_iced = { git="https://github.com/skygrango/vanilla-iced.git" } 
+vanilla_iced = { git="https://github.com/skygrango/vanilla_iced.git" } 
 num-rational = "0.4.1"

@@ -3677,7 +3677,7 @@ dependencies = [
 [[package]]
 name = "vanilla_iced"
 version = "0.1.0"
-source = "git+https://github.com/skygrango/vanilla-iced.git#b894096c5da6fe92f69131a34c723ca9b09388e8"
+source = "git+https://github.com/skygrango/vanilla_iced.git#34a3a046137ff69e955eb3a211a20a6646e18fbb"
 dependencies = [
  "bytemuck",
  "glam 0.24.2",
